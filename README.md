@@ -16,8 +16,8 @@
     <img height="25px" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img height="25px" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img height="25px" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2">
-    <img height="25px" src="imgs/android_studio.svg">
-    <img height="25px" src="imgs/docker.svg">
+    <img height="40px" src="imgs/android_studio.svg">
+    <img height="40px" src="imgs/docker.ico">
 </div>
 
 ## Aprendendo
