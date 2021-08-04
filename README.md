@@ -1,7 +1,7 @@
 ### Me chamo Markus Luan de Brito Sousa Pinheiro
 #### Programador desde os 16 anos
 
-![Markus Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkusLuan&show_icons=true&theme=merko&count_private=true)
+![Markus Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkusLuan&show_icons=true&theme=merko&count_private=true&bg_color=002745&text_color=FFFFFF)
 
 ## Conhecimentos
 <div>
