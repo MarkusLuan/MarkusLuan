@@ -23,6 +23,7 @@
     <img height="25px" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2">
     <img height="40px" src="imgs/android_studio.svg">
     <img height="40px" src="imgs/docker.ico">
+    <img height="40px" src="imgs/blender.svg">
 </div>
 
 ## Aprendendo
