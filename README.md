@@ -1,5 +1,12 @@
 ### Me chamo Markus Luan de Brito Sousa Pinheiro
-#### Programador desde os 16 anos
+
+Sou apaixonado por jogos e curioso desde pequeno, e isso me motivou a me dedicar a aprender a programar desde os 13 anos. Comecei a programar de fato aos 16 anos, e atualmente possuo 27 anos. 
+
+Em Novembro de 2022, abri meu MEI (MkgCriações) e atualmente tanto presto serviços como programador, desenvolvedor de jogos e tecnico de informatica. Como também atuo como programador em um escritório de Contabilidade, desenvolvendo bots de automações utilizando a linguagem Python.
+
+Para saber mais sobre mim consulte o [meu curriculo](https://mkgcriacoes.com.br/curriculo/), que está hospedado em meu site!
+
+Também faço reviews e recomendações de produtos: [Produtos que recomendo](https://recomendacoes.mkgcriacoes.com.br/)
 
 <!-- Removendo temporariamente por estar a um tempo sem postar repositorios publicos
 ![Markus Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkusLuan&show_icons=true&theme=merko&count_private=true&bg_color=002745&text_color=FFFFFF)
