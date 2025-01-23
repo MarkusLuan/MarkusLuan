@@ -24,13 +24,15 @@
     <img height="40px" src="imgs/android_studio.svg">
     <img height="40px" src="imgs/docker.ico">
     <img height="40px" src="imgs/blender.svg">
+    <img height="25px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+    <img height="25px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
 ## Aprendendo
 <div>
-    <img height="25px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
     <img height="25px" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-    <img height="25px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+    <img height="25px" src="https://img.shields.io/badge/-unreal%20engine-black?style=for-the-badge&logo=unrealengine&logoColor=white">
+    <img height="25px" src="https://img.shields.io/badge/-c++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
 ## Redes Sociais
